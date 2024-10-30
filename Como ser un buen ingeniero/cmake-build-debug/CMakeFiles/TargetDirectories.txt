@@ -1,0 +1,3 @@
+C:/Users/oscca/OneDrive/Datos adjuntos/Documentos/GitHub/Como ser un buen ingeniero/cmake-build-debug/CMakeFiles/Como_ser_un_buen_ingeniero.dir
+C:/Users/oscca/OneDrive/Datos adjuntos/Documentos/GitHub/Como ser un buen ingeniero/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/oscca/OneDrive/Datos adjuntos/Documentos/GitHub/Como ser un buen ingeniero/cmake-build-debug/CMakeFiles/rebuild_cache.dir
